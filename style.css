@@ -1,0 +1,20 @@
+div {
+    background-color: #555;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #fff;
+    width: 500px;
+    border-width: 10px;
+    border-color: red;
+    border-style:solid;
+    padding: 10px;
+}
+a {
+    color: #888;
+}
+a:hover {
+    color: #fff;
+}
+img {
+    max-width: 350px;
+    padding: 0px 15%;
+}
